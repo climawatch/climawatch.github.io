@@ -1,0 +1,11 @@
+title: ClimaWatch
+description: Reliable climate monitoring for healthcare, labs, and beyond.
+baseurl: "" # deixe vazio se estiver usando o domínio padrão do GitHub Pages
+url: "https://climawatch.github.io" # substitua pelo seu usuário
+
+theme: null
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
