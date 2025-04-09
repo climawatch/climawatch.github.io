@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Bem-vindo
 ---
 
-## Monitor your environment with confidence
+## Monitore seu ambiente com confiança
 
-ClimaWatch delivers real-time temperature and humidity monitoring for critical environments such as healthcare facilities, laboratories, and data centers. Stay informed and protected, 24/7.
+O ClimaWatch oferece monitoramento em tempo real de temperatura e umidade para ambientes críticos, como instalações de saúde, laboratórios e data centers. Mantenha-se informado e protegido, 24 horas por dia, 7 dias por semana.
