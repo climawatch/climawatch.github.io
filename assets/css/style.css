@@ -1,0 +1,167 @@
+/* Geral */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+  background-color: #f0f8ff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero .logo {
+  max-width: 150px;
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+  color: #333;
+}
+
+.hero .subtitle {
+  color: #555;
+}
+
+.hero .button {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Separadores */
+hr {
+  border: none;
+  height: 2px;
+  background-color: #ddd;
+  margin: 2rem 0;
+}
+
+/* Benefits Section */
+.benefits {
+  background-color: #e8f5e9;
+  text-align: center;
+  padding: 2rem;
+}
+
+.benefits h2 {
+  color: #2e7d32;
+}
+
+.benefit-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.benefit-list div {
+  max-width: 300px;
+}
+
+.benefit-list h3 {
+  color: #388e3c;
+}
+
+.benefit-list p {
+  color: #555;
+}
+
+/* Testimonials Section */
+.testimonials {
+  background-color: #fff3e0;
+  text-align: center;
+  padding: 2rem;
+}
+
+.testimonials h2 {
+  color: #ef6c00;
+}
+
+.testimonial-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.testimonial-list blockquote {
+  max-width: 600px;
+  color: #555;
+}
+
+.testimonial-list footer {
+  color: #888;
+}
+
+/* Pricing Section */
+.pricing {
+  background-color: #e3f2fd;
+  text-align: center;
+  padding: 2rem;
+}
+
+.pricing h2 {
+  color: #1565c0;
+}
+
+.pricing-table {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.plan {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1rem;
+  max-width: 300px;
+}
+
+.plan h3 {
+  color: #333;
+}
+
+.plan .price {
+  color: #007BFF;
+  font-size: 1.5rem;
+}
+
+.plan ul {
+  list-style: none;
+  padding: 0;
+  color: #555;
+}
+
+.plan .button {
+  background-color: #ddd;
+  color: #333;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.plan.highlight {
+  background-color: #1565c0;
+  color: #fff;
+}
+
+.plan.highlight .button {
+  background-color: #ffca28;
+  color: #333;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
