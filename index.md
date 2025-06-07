@@ -7,7 +7,7 @@ title: ClimaWatch
   <img src="/assets/images/logo.png" alt="ClimaWatch Logo" class="logo" />
   <h1>ClimaWatch</h1>
   <p class="subtitle">Reliable climate monitoring for healthcare, labs, and beyond.</p>
-  <a href="#plans" class="button">Get Started</a>
+  <a href="app.html" class="button">Get Started</a>
 </header>
 
 <section class="benefits">
