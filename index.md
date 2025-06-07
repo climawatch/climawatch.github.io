@@ -46,7 +46,7 @@ title: ClimaWatch
   </div>
 </section>
 
-<section id="plans" class="pricing">
+<!-- <section id="plans" class="pricing">
   <h2>Choose your plan</h2>
   <div class="pricing-table">
     <div class="plan">
@@ -71,7 +71,7 @@ title: ClimaWatch
       <a href="#" class="button primary">Assinar</a>
     </div>
   </div>
-</section>
+</section> -->
 
 <footer>
   <p>&copy; 2025 ClimaWatch. All rights reserved.</p>
